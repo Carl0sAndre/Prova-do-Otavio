@@ -1,4 +1,4 @@
-function enviar(event){
+function tabela(event){
     event.preventDefault();
 
     var nome = event.target[0].value;
