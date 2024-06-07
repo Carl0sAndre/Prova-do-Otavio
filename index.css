@@ -1,0 +1,9 @@
+table, th, td {
+    border: 1px solid black;
+    text-align: center;
+}
+section form {
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+}
